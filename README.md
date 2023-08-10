@@ -740,7 +740,60 @@ This notebooks in this section shows how you can load data from various sources 
    </tr>
 </table>
 
+## Dataset Discovery
 
+<table>
+   <tr>
+      <td rowspan="4" width="160" align="center">
+            <a href="https://www.kaggle.com/datasets/pdavpoojan/the-rvlcdip-dataset-test">
+               <img src="./gallery/rvl_thumbnail.jpg" width="200">
+               RCL-CDIP Test Dataset.
+            </a>
+      </td>
+      <td rowspan="4">
+         <b>⚡ Description:</b>
+         <br>
+         The RVL-CDIP (Ryerson Vision Lab Complex Document Information Processing) test dataset consists of 40,000 grayscale images in 16 classes.
+         <br>
+         <br>
+         <b>🔆 Task:</b> Document Classification.
+         <br>
+         <br>
+         <b>📌 Issues:</b>
+         <br>
+         Duplicates - 838 </br>
+         Outlier - 30
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="160">
+         <a href="https://github.com/visual-layer/fastdup/blob/main/examples/quick-dataset-analysis.ipynb">
+         <img src="./gallery/vl.svg" width="25">
+         <br>
+            Interactive Demo
+         </a>
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="160">
+         <a href="https://colab.research.google.com/github/visual-layer/fastdup/blob/main/examples/quick-dataset-analysis.ipynb">
+         <img src="./gallery/yt.png" height="30">
+         <br>
+            Video Showcase
+         </a>
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="160">
+         <a href="https://www.kaggle.com/code/dnth90/quality-issues-duplicates-mislabels-anomalies">
+            <img src="./gallery/kaggle_logo.png" width="25">
+            <br>
+            Notebook
+         </a>
+      </td>
+   </tr>
+   <!-- ------------------------------------------------------------------- -->
+   </table>
 
 
 ## Getting Help
