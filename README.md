@@ -767,7 +767,7 @@ This notebooks in this section shows how you can load data from various sources 
    </tr>
    <tr>
       <td align="center" width="160">
-         <a href="https://github.com/visual-layer/fastdup/blob/main/examples/quick-dataset-analysis.ipynb">
+         <a href="https://app.visual-layer.com/dataset/b5f9355e-36be-11ee-87cf-329cf2564488">
          <img src="./gallery/vl.svg" width="25">
          <br>
             Interactive Demo
@@ -776,7 +776,7 @@ This notebooks in this section shows how you can load data from various sources 
    </tr>
    <tr>
       <td align="center" width="160">
-         <a href="https://colab.research.google.com/github/visual-layer/fastdup/blob/main/examples/quick-dataset-analysis.ipynb">
+         <a href="https://youtu.be/ijf8Ag4-3TE">
          <img src="./gallery/yt.png" height="30">
          <br>
             Video Showcase
