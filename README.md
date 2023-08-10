@@ -747,7 +747,7 @@ We analyze public datasets and highlight quality issues that can be fixed.
       <td rowspan="4" width="160" align="center">
             <a href="https://www.kaggle.com/datasets/pdavpoojan/the-rvlcdip-dataset-test">
                <img src="./gallery/rvl_thumbnail.jpg" width="200">
-               RCL-CDIP Test Dataset.
+               RVL-CDIP Test Dataset.
             </a>
       </td>
       <td rowspan="4">
