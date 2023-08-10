@@ -751,9 +751,7 @@ We analyze public datasets and highlight quality issues that can be fixed.
             </a>
       </td>
       <td rowspan="4">
-         <b>⚡ Description:</b>
-         <br>
-         The RVL-CDIP (Ryerson Vision Lab Complex Document Information Processing) test dataset consists of 40,000 grayscale images in 16 classes.
+         <b>⚡ Description:</b> The RVL-CDIP (Ryerson Vision Lab Complex Document Information Processing) test dataset consists of 40,000 grayscale images in 16 classes.
          <br>
          <br>
          <b>🔆 Task:</b> Document Classification.
