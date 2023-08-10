@@ -762,7 +762,7 @@ This notebooks in this section shows how you can load data from various sources 
          <b>📌 Issues:</b>
          <br>
          Duplicates - 838 </br>
-         Outlier - 30
+         Outliers - 30
       </td>
    </tr>
    <tr>
