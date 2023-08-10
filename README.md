@@ -741,7 +741,7 @@ This notebooks in this section shows how you can load data from various sources 
 </table>
 
 ## Dataset Discovery
-
+We analyze public datasets and highlight quality issues that can be fixed.
 <table>
    <tr>
       <td rowspan="4" width="160" align="center">
